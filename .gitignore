@@ -254,3 +254,5 @@ aws-cdk-web/
 # Create React App
 build/
 types/
+
+uv.xml
